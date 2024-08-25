@@ -1,0 +1,21 @@
+{
+  "name": "timezone-sync",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timezone",
+    "datetime",
+    "moment",
+    "utils"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45"
+  }
+}
